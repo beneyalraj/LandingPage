@@ -28,7 +28,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="flex w-full h-full justify-center gap-6 md:gap-10 pb-4 pt-4">
-          <div className="border-l pl-8 md:pl-16">
+          <div className="md:border-l md:pl-16">
             <h2 className="gap-4 py-4 md:text-2xl">Resources</h2>
             <p>Blog</p>
             <p className="gap-2">Feedback</p>
